@@ -1,0 +1,228 @@
+fileFormatVersion: 2
+guid: d041d53c0bebc1c4cb5de11224691e47
+timeCreated: 1453162696
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mike_running_0
+    21300002: mike_running_1
+    21300004: mike_running_2
+    21300006: mike_running_3
+    21300008: mike_running_4
+    21300010: mike_running_5
+    21300012: mike_running_6
+    21300014: mike_running_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: mike_running_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 17
+        width: 74
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: 53}
+        - {x: -17, y: 53}
+        - {x: -26, y: 51}
+        - {x: -37, y: 30}
+        - {x: -37, y: -53}
+        - {x: 1, y: -53}
+        - {x: 18, y: -32}
+        - {x: 37, y: 7}
+        - {x: 37, y: 46}
+    - name: mike_running_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 3
+        width: 86
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 60}
+        - {x: -19, y: 55}
+        - {x: -43, y: -9}
+        - {x: -43, y: -60}
+        - {x: -23, y: -60}
+        - {x: 20, y: -42}
+        - {x: 43, y: 20}
+        - {x: 43, y: 54}
+        - {x: 39, y: 60}
+    - name: mike_running_2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 23
+        width: 106
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 50}
+        - {x: -16, y: 50}
+        - {x: -53, y: 30}
+        - {x: -53, y: -39}
+        - {x: -17, y: -50}
+        - {x: 43, y: -50}
+        - {x: 46, y: -46}
+        - {x: 44, y: -37}
+        - {x: 53, y: -10}
+    - name: mike_running_3
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 21
+        width: 92
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 51}
+        - {x: -46, y: 13}
+        - {x: -46, y: 9}
+        - {x: -42, y: 3}
+        - {x: -34, y: -5}
+        - {x: -26, y: -5}
+        - {x: -24, y: -11}
+        - {x: -30, y: -9}
+        - {x: -39, y: -8}
+        - {x: -46, y: -11}
+        - {x: -46, y: -39}
+        - {x: -41, y: -51}
+        - {x: 41, y: -51}
+        - {x: 46, y: -26}
+        - {x: 46, y: 51}
+    - name: mike_running_4
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 19
+        width: 78
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 52}
+        - {x: -27, y: 48}
+        - {x: -39, y: -2}
+        - {x: -39, y: -44}
+        - {x: -24, y: -52}
+        - {x: 6, y: -52}
+        - {x: 39, y: 9}
+        - {x: 39, y: 49}
+        - {x: 37, y: 52}
+    - name: mike_running_5
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 5
+        width: 82
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: 59}
+        - {x: -16, y: 59}
+        - {x: -38, y: 7}
+        - {x: -41, y: -9}
+        - {x: -41, y: -59}
+        - {x: -7, y: -59}
+        - {x: 27, y: -17}
+        - {x: 41, y: 20}
+        - {x: 41, y: 57}
+    - name: mike_running_6
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 21
+        width: 100
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 51}
+        - {x: -50, y: 38}
+        - {x: -50, y: -40}
+        - {x: -25, y: -51}
+        - {x: 37, y: -51}
+        - {x: 41, y: -49}
+        - {x: 50, y: -10}
+        - {x: 50, y: 51}
+    - name: mike_running_7
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 19
+        width: 92
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 52}
+        - {x: -46, y: 31}
+        - {x: -46, y: -36}
+        - {x: -38, y: -52}
+        - {x: 35, y: -52}
+        - {x: 46, y: -41}
+        - {x: 46, y: 52}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
